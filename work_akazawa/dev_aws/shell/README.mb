@@ -5,3 +5,4 @@
 source change_cli_user.sh cliユーザ
 
 ※権限及び、実行ディレクトリは注意してください。
+※755
